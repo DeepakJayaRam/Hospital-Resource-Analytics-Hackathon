@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+openpyxl
+psycopg2-binary
+sqlalchemy
+faker
+python-multipart
+requests
